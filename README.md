@@ -19,12 +19,6 @@
 * wkhtmltox     v0.12.5-1.msvc2015-win64 (列印條碼)
 ### 如果您的電腦環境版本低於以上版本，但依舊可以跑此專案的話就不用特別重新安裝 ###
 
-## **以下連結文件請勿外流** ##
-安裝方法與圖文教學請閱讀 => [Laravel 5.7 實務專題範例教學](https://drive.google.com/file/d/1YKV4rfhZ71GkeBKd30Of1smunzAzfeKb/view?usp=sharing)
-#### **備註：Apache、PHP與MySQL可參考第一章，Composer安裝參考第三章、Node.js與NPM可參考7-1-2 ** ####
-Git安裝與使用參考 => [未完成的Git圖文教學](https://drive.google.com/open?id=1UElz1pS3KWzKw9sNfM_sXqBeKX5jsNNb)
-
-*如果對於指令還是不太了解，也可以參考* => [你必須要懂得Git指令](https://drive.google.com/open?id=1ejiVzU-imgdCIlBG31f4KjOII2VTjeEg)
 
 
 # 如何使用 
