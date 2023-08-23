@@ -55,3 +55,15 @@ npm安裝完成就大功告成了！
 2. 透過以下指令即可 *(git pull <數據庫名稱> <分支名稱>)*
 >       git pull origin master
 
+# Acknowledgement 
+
+
+This project was developed under the commission of WANIN International Co., Ltd., led by Kevin, in collaboration with Jack and Jamie. This project is also under supervise of professor Yang, Yu-Cheih.
+
+
+The site was close due to integrate information and centralized resource promotion on September 15th, 2022 (Thursday), for more details please visit [拾本書堂](https://www.facebook.com/photo/?fbid=622005826167596&set=pb.100077055864464.-2207520000.)
+
+
+Kevin serves as the project manager responsible for project direction and backend development, both Jack and Jamie is responsible for full-stack development.
+Please feel free to contect [me](kevin0980365799.work@gmail.com) for any further questions.
+
